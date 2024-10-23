@@ -1,7 +1,7 @@
-# Automatiga - FREE RPA Platform.
+# <img src="./images/channels4_profile.jpg" width=50 vertical-align='middle'> Automatiga - FREE RPA Platform.
 Intelligent Automation Platform (RPA + AI)
 
-<H2>Platform Demo</H2>
+<H2>Watch a Demo</H2>
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/hHN1VYU9DbA/mqdefault.webp?v=66f63734&sqp=CPis5LgG&rs=AOn4CLALS3s0AmWh49ydEECme54xGA3Eyw)](https://www.youtube.com/watch?v=hHN1VYU9DbA)
 
