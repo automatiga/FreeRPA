@@ -7,7 +7,7 @@ Automatiga is an advanced Intelligent Automation Platform designed to revolution
 
 <H2>Watch a Demo</H2>
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/hHN1VYU9DbA/mqdefault.webp?v=66f63734&sqp=CPis5LgG&rs=AOn4CLALS3s0AmWh49ydEECme54xGA3Eyw)](https://www.youtube.com/watch?v=hHN1VYU9DbA)
+[![Watch the video](./images/video_bg.webp)](https://www.youtube.com/watch?v=hHN1VYU9DbA)
 
 <H2>Identity Server</H2>
 
